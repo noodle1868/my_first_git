@@ -12,6 +12,10 @@
 <body>
 	<h3>폐기 기능</h3>
 	<p>폐기</p>
+	<h3>commit 한 내용을 취소하고 싶다면</h3>
+	<p>브랜치 초기화</p>
+	<p>리버스 커밋</p>
+	
 </body>
 <script></script>
 </html>
