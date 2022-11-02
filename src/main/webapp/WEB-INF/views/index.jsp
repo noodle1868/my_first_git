@@ -10,7 +10,8 @@
 <style></style>
 </head>
 <body>
-
+	<h3>폐기 기능</h3>
+	<p>폐기</p>
 </body>
 <script></script>
 </html>
